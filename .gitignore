@@ -4,4 +4,7 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class 
+*$py.class
+
+# Output directory
+transcripts/ 
